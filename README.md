@@ -6,13 +6,11 @@
 
 ###
 
-
-
 <h3 align="left">👩‍💻  About Me</h3>
 
+###
+
 <img align="right" height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-
-
 
 ###
 
@@ -21,6 +19,10 @@
 ###
 
 <p align="left">- 🔭 I’m working as SDE Intern at ChallengeRate, (ex-Piramal Finanace).<br>- 💼 Upcoming Deputy Manager at ICICI Bank<br>- 📚 I'm currently learning latest technologies used in industries, Concepts of System Design, AI Automation and AWS.<br>- ⚡ In my free time I like to read fiction, watch movies and play cricket.<br><br>P.S. - Huge Cricket Geek and Sherlock Fan</p>
+
+###
+
+<p align="left">---------------------------------------------------------------------------------------------------------------------------------</p>
 
 ###
 
@@ -38,7 +40,7 @@
 
 ###
 
-<h3 align="center"">🚀 Web Development</h3>
+<h3 align="center">🚀 Web Development</h3>
 
 ###
 
@@ -100,13 +102,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
 
-###
+<p align="left">---------------------------------------------------------------------------------------------------------------------------------</p>
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Syphen21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
@@ -117,6 +119,10 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Syphen21/Syphen21/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">---------------------------------------------------------------------------------------------------------------------------------</p>
 
 ###
 
